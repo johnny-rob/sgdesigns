@@ -1,6 +1,6 @@
 # Sgdesigns
 
-A footer for Stephanie's website.
+> A footer for Stephanie's website.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Sgdesigns::Renderer.copyright 'S.Golden Design.', 'All rights reserved.'
+```
 
 ## Development
 
