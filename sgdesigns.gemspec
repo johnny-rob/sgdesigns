@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative "lib/sgdesigns/version"
 
 Gem::Specification.new do |spec|
@@ -13,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "http://sgdesigns.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://sgdesigns.com"
