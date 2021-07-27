@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jpinney1@gmail.com"]
 
   spec.summary       = "Footer for Stephanie's website."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://sgdesigns.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
